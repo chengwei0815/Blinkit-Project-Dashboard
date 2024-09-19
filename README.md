@@ -25,6 +25,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 #### BUSINESS REQUIREMENT
 
 **Chart's Requirements**
+
 **1. Total Sales by Fat Content:**
 Objective: Analyze the impact of fat content on total sales.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
